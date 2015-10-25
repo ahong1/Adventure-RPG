@@ -1,0 +1,6 @@
+Charcter and monster stats
+[hp, attack, defense, speed, luck]
+
+player = [100,0,20,40,5]
+rat = [30,6,5,20,5]
+

@@ -1,0 +1,6 @@
+Item stats
+[attack, defense, speed, luck]
+
+Wooden Sword = [10,5,2,0]
+Wooden Bow = [8,3,4,2]
+Wooden Staff = [12,1,2,1]
